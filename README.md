@@ -34,7 +34,7 @@ Tips & Tricks
 Captive touch might seem like this new technology that you’ve never seen before, but in reality captive touch is just a button that you can’t see. Using wire as a button is just as simple as coding a wire button, which is almost identical to wiring a button. 
 
 Pictures:
-
+<img src="Frit2.PNG" width="1000">
 </details>
 
 
