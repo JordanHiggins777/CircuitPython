@@ -151,5 +151,5 @@ Pictures:
 | Assignment 5 Neopixel and Sonar | 5      |    ~1 Week |
 | Assignment 6 Classes, Modules, and Objects. | 6    |  ~1.5 Weeks   |
 | Assignment 7 Hello VS code |  2     |    ~1 day |
-| Assignment 8 Fancy LED     | centered      |   $12 |
+| Assignment 8 Fancy LED     | 6      |   ~1 week |
 
