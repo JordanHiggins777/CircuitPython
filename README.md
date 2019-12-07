@@ -142,15 +142,14 @@ Pictures:
 
 </details>
 
-| assignemtn        | difficulty rating out of 10 | How you should budget time  |
+| Assignments        | Difficulty rating out of 10 | How you should budget time  |
 | ------------- |:-------------:| -----:|
-| Assignment 1 led fade    | 1 | $1600 |
-| Assignment 2 Captiev touch servo    | 2      |   $12 |
-| Assignment 3 LCD and button | 7      |    $1 |
-| Assignment 4 photo interrupter | 5      |   $12 |
-| Assignment 5 neopixel and sonar | are neat      |    $1 |
-| Assignment 6 Classes, Modules, and Objects. | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| Assignment 1 LED fade    | 1 | ~1 Day |
+| Assignment 2 Captiev touch servo    | 2      |  ~3 Days |
+| Assignment 3 LCD and Button | 7      |    ~2 Weeks |
+| Assignment 4 Photo Interrupter | 4      |   ~1 Week|
+| Assignment 5 Neopixel and Sonar | 5      |    ~1 Week |
+| Assignment 6 Classes, Modules, and Objects. | 6    |  ~1.5 Weeks   |
+| Assignment 7 Hello VS code |  2     |    ~1 day |
+| Assignment 8 Fancy LED     | centered      |   $12 |
 
