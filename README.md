@@ -142,9 +142,15 @@ Pictures:
 
 </details>
 
-| Tables        | Are           | how you should budget time  |
+| assignemtn        | difficulty rating out of 10 | How you should budget time  |
 | ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
+| led fade    | 1 | $1600 |
+| Captiev touch servo    | 2      |   $12 |
+| LCD and button | 7      |    $1 |
+| col 2 is      | photo inturupter      |   $12 |
+| zebra stripes | are neat      |    $1 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
 
