@@ -144,7 +144,7 @@ Pictures:
 
 | Assignments        | Difficulty rating out of 10 | How you should budget time  |
 | ------------- |:-------------:| -----:|
-| Assignment 1 LED fade    | 1 | ~1 Day |
+| Assignment 1 LED fade    | 1 | ~2 Days |
 | Assignment 2 Captiev touch servo    | 2      |  ~3 Days |
 | Assignment 3 LCD and Button | 7      |    ~2 Weeks |
 | Assignment 4 Photo Interrupter | 4      |   ~1 Week|
